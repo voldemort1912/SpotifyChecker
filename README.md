@@ -1,4 +1,5 @@
-# SpotifyChecker
+# Transferred to https://github.com/VoldemortCommunity/SpotifyChecker
+# ~~SpotifyChecker
 - ~~Mass Spotify Accounts Checker v0.1 (Uploaded on 19/02/2019 01.20 IST)~~
 - ~~Mass Spotify Accounts Checker v0.2 (Updated on 19/02/2019 17.35 IST)~~
 - ~~Mass Spotify Accounts Checker v0.2.1 (Updated on 20/02/2019 19.23 IST)~~
@@ -38,4 +39,4 @@
 #### Have Questions?
 * Join the Conversation at https://t.me/VoldemortCommunity !!
 * DM me @jaynammodi !!
-* DM me on Telegram https://t.me/hewhomustn0tbenamed !!
+* DM me on Telegram https://t.me/hewhomustn0tbenamed !!~~
